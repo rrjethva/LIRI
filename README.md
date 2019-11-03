@@ -4,17 +4,23 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 LIRI uses the following commands:
 
 concert-this
+
 spotify-this-song
+
 movie-this
+
 do-what-it-says
+
 Technologies used:
 Node.js
 Javascript
+
 npm packages:
-twitter - an asynchronous client library for the Twitter REST and Streaming API's.
+
 spotify - A simple to use API library for the Spotify REST API.
 request - Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 dotenv - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env.
+
 How to Run LIRI-Bot
 Step One: node liri my-tweets This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
